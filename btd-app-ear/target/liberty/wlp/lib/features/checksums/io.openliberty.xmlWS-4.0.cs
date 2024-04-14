@@ -1,0 +1,22 @@
+#Sat Apr 13 17:15:22 CDT 2024
+bin/xmlWS/tools/ws-wsgen.jar=ea2219bbac6640d48698500241af63a9
+bin/xmlWS/tools/ws-wsimport.jar=94d603a409ef536840f0de2efecf3e62
+bin/xmlWS/wsgen=a9c357b32f210685402fd9f9e7edf649
+bin/xmlWS/wsgen.bat=b4fca9d122b47984818a475890bb3d7a
+bin/xmlWS/wsimport=61920e9ba7edd9208bd44ac297e9a9db
+bin/xmlWS/wsimport.bat=8b0aa582e8d73617ddadc2ab199612f6
+dev/api/ibm/schema/ibm-ws-bnd_1_0.xsd=8299700e27300fb1958c138934044eee
+dev/api/spec/io.openliberty.jakarta.activation.2.0_1.0.87.jar=63beee921cdc2ce4ba7f877f102fa3d1
+dev/api/spec/io.openliberty.jakarta.jws.3.0_1.0.87.jar=182941725638c3573673878ebc943bdc
+dev/api/spec/io.openliberty.jakarta.soap.2.0_1.0.87.jar=585b1df8a1725f756508c399c8ae3c33
+dev/api/spec/io.openliberty.jakarta.xmlBinding.3.0_1.0.87.jar=b275e43e4bff1508d834bd66125bd245
+dev/api/spec/io.openliberty.jakarta.xmlWS.3.0_1.0.87.jar=9447894c9b9127bef5fe064887e8426a
+lib/com.ibm.ws.javaee.ddmodel.ws_1.0.87.jar=0584629b6c423a280621613c991b6bbe
+lib/com.ibm.ws.jaxws.2.3.common.jakarta_1.0.87.jar=1daffac1e03e0b1be0602d3ea7442c55
+lib/com.ibm.ws.jaxws.web.jakarta_1.0.87.jar=bea8f2796d25e3aeb304255b5389d92c
+lib/com.ibm.ws.jaxws.webcontainer.jakarta_1.0.87.jar=f70e08e8d1bb3afaa9359476ad0cd014
+lib/com.ibm.ws.jaxws.wsat_1.0.87.jar=d6549b9160dbf632d9ae5e6b50863394
+lib/com.ibm.ws.webservices.javaee.common.jakarta_1.0.87.jar=af9e577ef115664654cbc60809bab098
+lib/features/io.openliberty.xmlWS-4.0.mf=64dfca76638bf82a293fb4c68ceab1c1
+lib/io.openliberty.com.sun.xml.messaging.saaj.2.0_1.0.87.jar=25d35b202874d012643510e97bb9f1f5
+lib/io.openliberty.xmlWS.3.0.internal.tools_1.0.87.jar=6596f07344572109f3b79680ca39a2d7

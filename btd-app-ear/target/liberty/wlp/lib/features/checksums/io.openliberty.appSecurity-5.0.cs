@@ -1,0 +1,21 @@
+#Sat Apr 13 17:15:36 CDT 2024
+dev/spi/ibm/io.openliberty.jaspic.spi_1.1.87.jar=6b1115779fa471b71331ff47d0256327
+dev/spi/ibm/javadoc/io.openliberty.jaspic.spi_1.1-javadoc.zip=4b7724be08dbced8e5b5f0ab10f23f5d
+lib/com.ibm.json4j_1.0.87.jar=9d7c47ec8de702ad86b9741d0b8d3f49
+lib/com.ibm.ws.org.apache.commons.lang3_1.0.87.jar=3dd286725003be6397ae1a2d85322650
+lib/com.ibm.ws.org.apache.httpcomponents_1.0.87.jar=b119ac4d5a49526f8506ffc9c756d6f7
+lib/com.ibm.ws.org.jose4j_1.0.87.jar=f6c7903d421448c7b3ec489bb8822ce2
+lib/com.ibm.ws.security.common.jsonwebkey_1.0.87.jar=6d212ab9f2ae502d3093dfa4bfb32ed5
+lib/features/io.openliberty.appSecurity-5.0.mf=b6d09b15b1b8025e67c5fe44e045f9b6
+lib/io.openliberty.org.apache.commons.codec_1.15.87.jar=3996719eef0ce53d81757c5bafbcfbb6
+lib/io.openliberty.org.apache.commons.logging_1.2.87.jar=04867ff5bc5f98fa7dcf34cbaac6b423
+lib/io.openliberty.security.authentication.internal.filter_1.0.87.jar=6c0fd4d57c48e1289742622a78d2047a
+lib/io.openliberty.security.common.internal_1.0.87.jar=89fca9c27b94f9853a1a59e1211dda29
+lib/io.openliberty.security.common.jwt.internal_1.0.87.jar=5f105b6127844f26eb0963d7cabb1a11
+lib/io.openliberty.security.jakartasec.2.0.internal.cdi_1.0.87.jar=71cc517ef3171f733b91edd0019c167b
+lib/io.openliberty.security.jakartasec.2.0.internal_1.0.87.jar=3819c8f8d9276cc55c705969e6a9b8ca
+lib/io.openliberty.security.jakartasec.3.0.internal.cdi_1.0.87.jar=c40308e40e4ae6170c302c740d09d140
+lib/io.openliberty.security.jakartasec.3.0.internal_1.0.87.jar=c5504bdafaf8f55aba79d532b23d9304
+lib/io.openliberty.security.jaspic.2.0.internal_1.0.87.jar=17e6824b02d66ccfd7b49d827ed0c6f1
+lib/io.openliberty.security.oidcclientcore.internal.jakarta_1.0.87.jar=eafd670e2ce8d703644387d6b8051524
+lib/io.openliberty.security.sso.internal_1.0.87.jar=37a38a3a6608ad23cfb8fd458ba973eb

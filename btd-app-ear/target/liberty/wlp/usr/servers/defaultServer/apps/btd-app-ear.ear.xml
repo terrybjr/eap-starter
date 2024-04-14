@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive>
+    <file sourceOnDisk="C:\Workspaces\dev-site\btd-app-ear\target\application.xml" targetInArchive="/META-INF/application.xml"/>
+    <archive targetInArchive="/btd-app-ejb.jar">
+        <dir sourceOnDisk="C:\Workspaces\dev-site\btd-app-ejb\target\classes" targetInArchive="/"/>
+        <file sourceOnDisk="C:\Workspaces\dev-site\btd-app-ejb\target\tmp\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+    </archive>
+    <file sourceOnDisk="C:\Users\l33tc\.m2\repository\org\apache\logging\log4j\log4j-api\2.23.1\log4j-api-2.23.1.jar" targetInArchive="/lib/org.apache.logging.log4j-log4j-api-2.23.1.jar"/>
+    <file sourceOnDisk="C:\Users\l33tc\.m2\repository\org\apache\logging\log4j\log4j-core\2.23.1\log4j-core-2.23.1.jar" targetInArchive="/lib/org.apache.logging.log4j-log4j-core-2.23.1.jar"/>
+    <archive targetInArchive="/btd-app-ws.war">
+        <dir sourceOnDisk="C:\Workspaces\dev-site\btd-app-ws\WebContent" targetInArchive="/"/>
+        <dir sourceOnDisk="C:\Workspaces\dev-site\btd-app-ws\target\classes" targetInArchive="/WEB-INF/classes"/>
+        <file sourceOnDisk="C:\Workspaces\dev-site\btd-app-ws\target\tmp\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+        <file sourceOnDisk="C:\Users\l33tc\.m2\repository\org\eclipse\microprofile\openapi\microprofile-openapi-api\3.1.1\microprofile-openapi-api-3.1.1.jar" targetInArchive="/WEB-INF/lib/microprofile-openapi-api-3.1.1.jar"/>
+        <file sourceOnDisk="C:\Users\l33tc\.m2\repository\org\apache\logging\log4j\log4j-api\2.23.1\log4j-api-2.23.1.jar" targetInArchive="/WEB-INF/lib/log4j-api-2.23.1.jar"/>
+        <file sourceOnDisk="C:\Users\l33tc\.m2\repository\org\apache\logging\log4j\log4j-core\2.23.1\log4j-core-2.23.1.jar" targetInArchive="/WEB-INF/lib/log4j-core-2.23.1.jar"/>
+    </archive>
+    <file sourceOnDisk="C:\Workspaces\dev-site\btd-app-ear\target\tmp\META-INF\MANIFEST.MF" targetInArchive="/META-INF/MANIFEST.MF"/>
+</archive>

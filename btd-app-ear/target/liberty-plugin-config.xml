@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<liberty-plugin-config>
+    <installDirectory>C:\Workspaces\dev-site\btd-app-ear\target\liberty\wlp</installDirectory>
+    <assemblyArtifact>
+        <groupId>io.openliberty</groupId>
+        <artifactId>openliberty-kernel</artifactId>
+        <version>24.0.0.3</version>
+        <type>zip</type>
+    </assemblyArtifact>
+    <assemblyArchive>C:\Users\l33tc\.m2\repository\io\openliberty\openliberty-kernel\24.0.0.3\openliberty-kernel-24.0.0.3.zip</assemblyArchive>
+    <assemblyInstallDirectory>C:\Workspaces\dev-site\btd-app-ear\target\liberty</assemblyInstallDirectory>
+    <refresh>false</refresh>
+    <serverDirectory>C:\Workspaces\dev-site\btd-app-ear\target\liberty\wlp\usr\servers\defaultServer</serverDirectory>
+    <userDirectory>C:\Workspaces\dev-site\btd-app-ear\target\liberty\wlp\usr</userDirectory>
+    <serverOutputDirectory>C:\Workspaces\dev-site\btd-app-ear\target\liberty\wlp\usr\servers\defaultServer</serverOutputDirectory>
+    <serverName>defaultServer</serverName>
+    <projectType>ear</projectType>
+    <aggregatorParentId>dev-site</aggregatorParentId>
+    <aggregatorParentBasedir>C:\Workspaces\dev-site</aggregatorParentBasedir>
+    <projectCompileDependency>com.brianthedeveloper:btd-app-ejb:1.0-SNAPSHOT</projectCompileDependency>
+    <projectCompileDependency>org.apache.logging.log4j:log4j-api:2.23.1</projectCompileDependency>
+    <projectCompileDependency>org.apache.logging.log4j:log4j-core:2.23.1</projectCompileDependency>
+    <projectCompileDependency>com.brianthedeveloper:btd-app-ws:1.0-SNAPSHOT</projectCompileDependency>
+    <configDirectory>C:\Workspaces\dev-site\btd-app-ear\src\main\liberty\config</configDirectory>
+    <configFile>C:\Workspaces\dev-site\btd-app-ear\src\main\liberty\config\server.xml</configFile>
+    <appsDirectory>apps</appsDirectory>
+    <looseApplication>true</looseApplication>
+    <stripVersion>false</stripVersion>
+    <installAppPackages>project</installAppPackages>
+    <applicationFilename>btd-app-ear.ear.xml</applicationFilename>
+    <installAppsConfigDropins>C:\Workspaces\dev-site\btd-app-ear\target\liberty\wlp\usr\servers\defaultServer\configDropins\defaults\install_apps_configuration_1491924271.xml</installAppsConfigDropins>
+</liberty-plugin-config>
